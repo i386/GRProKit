@@ -8,6 +8,7 @@
 
 #import "GRProBox.h"
 #import "GRProLabel.h"
+#import "GRThemeStore.h"
 
 #define kProBoxBackgroundColor [NSColor colorWithCalibratedWhite:0.121 alpha:1.000]
 

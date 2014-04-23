@@ -7,6 +7,7 @@
 //
 
 #import "GRProColor.h"
+#import "GRThemeStore.h"
 
 @implementation GRProColor
 

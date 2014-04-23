@@ -10,6 +10,7 @@
 #import <QuartzCore/QuartzCore.h>
 #import "GRProFont.h"
 #import "GRProMenu.h"
+#import "GRThemeStore.h"
 
 @interface GRProButtonOverlayView : NSView
 @end

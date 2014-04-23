@@ -8,6 +8,7 @@
 
 #import "GRProProgressIndicator.h"
 #import <QuartzCore/QuartzCore.h>
+#import "GRThemeStore.h"
 
 // progress bar corner radius
 #define kProgressBarCornerRadius 3.0

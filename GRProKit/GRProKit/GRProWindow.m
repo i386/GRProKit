@@ -10,6 +10,7 @@
 #import "GRProFont.h"
 #import "GRProColor.h"
 #import "GRProLabel.h"
+#import "GRThemeStore.h"
 #import <objc/runtime.h>
 
 float toolbarHeightForWindow(NSWindow *window);

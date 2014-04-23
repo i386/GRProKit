@@ -7,6 +7,7 @@
 //
 
 #import "GRProSlider.h"
+#import "GRThemeStore.h"
 
 @implementation GRProSlider
 
