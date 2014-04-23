@@ -61,7 +61,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "GRProKit/GRProKit/*.{h,m}", "GRProKit/GRProKit/GRProKit-Prefix.pch"
+  s.source_files  = "GRProKit/GRProKit/*.{h,m}"
   s.exclude_files = "Classes/Exclude"
 
   s.public_header_files = "GRProKit/GRProKit/**/*.h"
@@ -75,7 +75,7 @@ Pod::Spec.new do |s|
   #  non-essential files like tests, examples and documentation.
   #
 
-  s.resource  = "GRProKit/GRProKit/xibs/GRProAlert.xib"
+  s.resource  = "GRProKit/GRProKit/xibs/GRProAlert.xib", "GRProKit/GRProKit/GRProTheme.pack"
   # s.resources = "Resources/*.png"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
